@@ -1,0 +1,8 @@
+{
+        "pagePath": "pages/topic/topic",
+        "iconPath": "static/images/ic_menu_topic_nor.png",
+        "selectedIconPath": "static/images/ic_menu_topic_pressed.png",
+        "text": "专题"
+      },
+
+    如果需要专题栏，去app.json添加上面字段
